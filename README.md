@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Jatin Sundrani.<br>AI & Tech Enthusiast | Python, Web Dev | Design + Video Editing | Excellent Communication<br>I'm currently working on the Pearl Jewelry e-commerce website <br>💻 Driven by curiosity, code, and a love for movies that spark imagination.<br>🎬 Besides my work, I love movies/series, I write standup, poetry, and I sketch/doodle in my free time <br><br><br>
+My name is Jatin Sundrani.<br>AI & Tech Enthusiast | Python, Web Dev | Design + Video Editing | Excellent Communication <br>💻 Driven by curiosity, code, and a love for movies that spark imagination.<br>🎬 Besides my work, I love movies/series, I write standup, poetry, and I sketch/doodle in my free time <br><br><br>
 
 
 ## 🌐 Socials:
